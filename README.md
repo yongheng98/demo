@@ -4,3 +4,5 @@ demo
 
 项目目录：
 # TODO
+spring-demo: 用于Spring相关特性练习
+MyUnitTest：用于单元测试Mockito、PowerMockito相关练习
